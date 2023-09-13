@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/harmony-library/static/css/main.31d6cfe0.css",
+    "main.js": "/harmony-library/static/js/main.105a9912.js",
+    "index.html": "/harmony-library/index.html",
+    "main.105a9912.js.map": "/harmony-library/static/js/main.105a9912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.105a9912.js"
+  ]
+}
