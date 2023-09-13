@@ -1,0 +1,4 @@
+.resize-animation-stoper *{
+    animation: none !important;
+    transition: none !important;
+}
